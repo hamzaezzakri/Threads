@@ -1,3 +1,3 @@
-# Foobar
+# Thread
 
-Foobar is a Python library for dealing with word pluralization.
+A thread is a thread of execution in a program. The Java Virtual Machine allows an application to have multiple threads of execution running concurrently.
